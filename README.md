@@ -16,15 +16,21 @@ I am a results-driven Developer focused on building scalable backend systems wit
 ---
 
 ### 🌟 Featured Projects
-* **TastyTrack**: A Full-Stack Food Ordering platform built with React & Spring Boot.
-* **Skyline Analytics**: A professional real-time Weather Analytics application.
-* **Online Shopping Cart**: A dynamic e-commerce system using Java MVC.
+* [**TastyTrack**](https://github.com/aniketgursal45/tastytrack-frontend): A Full-Stack Food Ordering platform built with React & Spring Boot.
+* [**Skyline Analytics**](https://github.com/aniketgursal45/skyline-analytics): A professional real-time Weather Analytics application.
+* [**Online Shopping Cart**](https://github.com/aniketgursal45/online-shopping-cart-system): A dynamic e-commerce system using Java MVC.
 
 ---
 
 ### 📈 Metrics & Activity
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketgursal45&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgursal45&layout=compact&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketgursal45&show_icons=true&theme=transparent" alt="Aniket's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgursal45&layout=compact&theme=transparent" alt="Top Langs" />
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketgursal45&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ---
 
