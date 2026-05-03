@@ -1,7 +1,7 @@
 # Hi there, I'm Aniket Gursal 👋
 
 ### 🚀 Full-Stack Web Developer | Java Backend Engineer | B.E. Graduate 🎓
-I am a results-driven Developer focused on building scalable backend systems with **Java/Spring Boot** and professional, high-end interfaces with **React**. 
+I am a results-driven Developer focused on building scalable backend systems with **Java/Spring Boot** and professional, high-end interfaces with **React**. 
 
 ---
 
@@ -24,7 +24,7 @@ I am a results-driven Developer focused on building scalable backend systems wit
 
 ### 📈 Metrics & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgursal45&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgursal45&layout=compact&theme=transparent&v=1" alt="Top Langs" />
 </div>
 
 ---
