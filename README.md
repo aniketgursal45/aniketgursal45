@@ -77,14 +77,14 @@ I am passionate about creating scalable applications, solving real-world problem
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketgursal45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketgursal45&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=aniketgursal45&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Aniket's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aniketgursal45&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Aniket's Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketgursal45&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=aniketgursal45&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 
 </div>
 
